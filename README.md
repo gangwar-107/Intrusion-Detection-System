@@ -1,5 +1,8 @@
 # Intrusion-Detection-System
 
+# Link to App:
+https://btp-intrusion-detection.herokuapp.com/
+
 It is our thesis project in which we developed an intrusion detection system and integrated it
 with web application.This system classifies the traffic of a site as a normal traffic or a type of attack like DOS
 attack,probe attack, teardrop attack.
@@ -62,9 +65,18 @@ For integration we use Flask which is a python framework,and for frontend we use
 Our future work is to develop an intrusion detection system that dynamically detects the
 attacks on a website.
 
-# Link to Our App:
-https://btp-intrusion-detection.herokuapp.com/
-
 # ScreenShots of Website:
+
+# Home Page
+![ScreenShot](https://github.com/gangwar-107/Dev-Connector-MERN/blob/master/Screenshot%20(237).png)
+
+# Project Description 
+![ScreenShot](https://github.com/gangwar-107/Dev-Connector-MERN/blob/master/Screenshot%20(238).png)
+
+# Dataset Description Page
+![ScreenShot](https://github.com/gangwar-107/Dev-Connector-MERN/blob/master/Screenshot%20(239).png)
+
+# Ml Model Page
+![ScreenShot](https://github.com/gangwar-107/Dev-Connector-MERN/blob/master/Screenshot%20(240).png)
 
 
