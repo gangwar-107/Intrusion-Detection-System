@@ -68,15 +68,15 @@ attacks on a website.
 # ScreenShots of Website:
 
 # Home Page
-![ScreenShot](https://github.com/gangwar-107/Dev-Connector-MERN/blob/master/Screenshot%20(237).png)
+![ScreenShot](https://github.com/gangwar-107/Intrusion-Detection-System/blob/master/Screenshot%20(237).png)
 
 # Project Description 
-![ScreenShot](https://github.com/gangwar-107/Dev-Connector-MERN/blob/master/Screenshot%20(238).png)
+![ScreenShot](https://github.com/gangwar-107/Intrusion-Detection-System/blob/master/Screenshot%20(238).png)
 
 # Dataset Description Page
-![ScreenShot](https://github.com/gangwar-107/Dev-Connector-MERN/blob/master/Screenshot%20(239).png)
+![ScreenShot](https://github.com/gangwar-107/Intrusion-Detection-System/blob/master/Screenshot%20(239).png)
 
 # Ml Model Page
-![ScreenShot](https://github.com/gangwar-107/Dev-Connector-MERN/blob/master/Screenshot%20(240).png)
+![ScreenShot](https://github.com/gangwar-107/Intrusion-Detection-System/blob/master/Screenshot%20(240).png)
 
 
